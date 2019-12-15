@@ -1,5 +1,5 @@
 ![screenshot of sample](https://cdn.discordapp.com/attachments/651853753019924520/655599336046067729/1_864SHAPKA_GMC.png)[![screenshot of sample](
-https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://www.globalmovement.club)[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655600972889980930/web140.png)](https://www.globalmovement.club)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://pool.gmastercoin.com)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://chain.gmastercoin.com)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
