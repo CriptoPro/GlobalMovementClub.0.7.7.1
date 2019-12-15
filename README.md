@@ -1,10 +1,10 @@
 ![screenshot of sample](https://cdn.discordapp.com/attachments/651853753019924520/655599336046067729/1_864SHAPKA_GMC.png)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655600972889980930/web140.png)](https://www.globalmovement.club)[![screenshot of sample](
-https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://pool.gmastercoin.com)[![screenshot of sample](
-https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://chain.gmastercoin.com)[![screenshot of sample](
-https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
-https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
-https://cdn.discordapp.com/attachments/651853753019924520/655595833793839135/140.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655601493218557952/POOL.png)](https://pool.gmastercoin.com)[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655602215481901112/explorer.png)](https://chain.gmastercoin.com)[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655602621368762390/discord.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655602621368762390/discord.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655602621368762390/discord.png)](https://discord.gg/NUceHNH)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655598017830846467/2SHAPKA_GMC.png)](https://discord.gg/NUceHNH)  
 ###  Алгоритм: PoW, NeoScrypt (ASIC resistance)
 ###  Имя: Global Movement Club
