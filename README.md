@@ -1,9 +1,13 @@
 ![screenshot of sample](https://cdn.discordapp.com/attachments/651853753019924520/655580580007772171/SHAPKA_GMC.png)
 
+https://cdn.discordapp.com/emojis/655584893186736148.png
 
-https://www.globalmovement.club https://pool.gmastercoin.com https://chain.gmastercoin.com https://discord.gg/NUceHNH
-
-[**САЙТ**](https://www.globalmovement.club) -- [**POOL GMC**](https://pool.gmastercoin.com) -- [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com) -- [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)
+![screenshot of sample](
+https://cdn.discordapp.com/emojis/655584893186736148.png)[**САЙТ**](https://www.globalmovement.club) ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655584893186736148.png) [**POOL GMC**](https://pool.gmastercoin.com) ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655584893186736148.png) [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com) ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655584893186736148.png) [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)![screenshot of sample](
+https://cdn.discordapp.com/emojis/655584893186736148.png)
 
 Алгоритм: PoW, NeoScrypt (ASIC resistance)
 Имя: Global Movement Club
