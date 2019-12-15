@@ -3,11 +3,11 @@
 https://cdn.discordapp.com/emojis/655584893186736148.png
 
 ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655585880567709697.png)[**САЙТ**](https://www.globalmovement.club) ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655585880567709697.png) [**POOL GMC**](https://pool.gmastercoin.com) ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655585880567709697.png) [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com) ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655585880567709697.png) [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)![screenshot of sample](
-https://cdn.discordapp.com/emojis/655585880567709697.png)
+https://cdn.discordapp.com/emojis/655586661102649354.png)[**САЙТ**](https://www.globalmovement.club) ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655586661102649354.png) [**POOL GMC**](https://pool.gmastercoin.com) ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655586661102649354.png) [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com) ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655586661102649354.png) [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)![screenshot of sample](
+https://cdn.discordapp.com/emojis/655586661102649354.png)
 
 Алгоритм: PoW, NeoScrypt (ASIC resistance)
 Имя: Global Movement Club
