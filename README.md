@@ -3,7 +3,7 @@
 
 https://www.globalmovement.club https://pool.gmastercoin.com https://chain.gmastercoin.com https://discord.gg/NUceHNH
 
-[САЙТ](https://www.globalmovement.club) -- [POOL GMC](https://pool.gmastercoin.com) -- [БЛОК ПРОВОДНИК](https://chain.gmastercoin.com) -- [DISCORD СЕРВЕР](https://discord.gg/NUceHNH)
+[**САЙТ**](https://www.globalmovement.club) -- [**POOL GMC**](https://pool.gmastercoin.com) -- [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com) -- [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)
 
 Алгоритм: PoW, NeoScrypt (ASIC resistance)
 Имя: Global Movement Club
