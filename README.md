@@ -7,8 +7,8 @@ https://cdn.discordapp.com/emojis/655586661102649354.png) [**БЛОК ПРОВО
 https://cdn.discordapp.com/emojis/655586661102649354.png) [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)  ![screenshot of sample](
 https://cdn.discordapp.com/emojis/655586661102649354.png)
 
-### h3 Алгоритм: PoW, NeoScrypt (ASIC resistance)
-### h3 Имя: Global Movement Club
+###  Алгоритм: PoW, NeoScrypt (ASIC resistance)
+###  Имя: Global Movement Club
 ### h3 Тикер: GMC
 ### h3 Время генерации блока: 2минуты
 ### h3 Вознаграждение блока: 12 GMC
