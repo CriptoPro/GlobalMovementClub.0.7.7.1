@@ -2,9 +2,10 @@
 [![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655592772581195786/41421943ya3.png)](https://www.globalmovement.club)[![screenshot of sample](
 https://cdn.discordapp.com/attachments/651853753019924520/655592772581195786/41421943ya3.png)](https://pool.gmastercoin.com)  ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655586661102649354.png) [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com)  ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655586661102649354.png) [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)  ![screenshot of sample](
-https://cdn.discordapp.com/emojis/655586661102649354.png)
+https://cdn.discordapp.com/emojis/655586661102649354.png) [![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655592772581195786/41421943ya3.png)](https://chain.gmastercoin.com)  ![screenshot of sample](
+https://cdn.discordapp.com/emojis/655586661102649354.png) [![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655592772581195786/41421943ya3.png)](https://discord.gg/NUceHNH)  
 
 ###  Алгоритм: PoW, NeoScrypt (ASIC resistance)
 ###  Имя: Global Movement Club
