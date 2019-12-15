@@ -1,7 +1,6 @@
 ![screenshot of sample](https://cdn.discordapp.com/attachments/651853753019924520/655580580007772171/SHAPKA_GMC.png)
-
-![screenshot of sample](
-https://cdn.discordapp.com/emojis/655586661102649354.png)  [**САЙТ**](https://www.globalmovement.club)  ![screenshot of sample](
+[![screenshot of sample](
+https://cdn.discordapp.com/attachments/651853753019924520/655592173777190954/a7b4309781c179a8.png)](https://www.globalmovement.club)  ![screenshot of sample](
 https://cdn.discordapp.com/emojis/655586661102649354.png) [**POOL GMC**](https://pool.gmastercoin.com)  ![screenshot of sample](
 https://cdn.discordapp.com/emojis/655586661102649354.png) [**БЛОК ПРОВОДНИК**](https://chain.gmastercoin.com)  ![screenshot of sample](
 https://cdn.discordapp.com/emojis/655586661102649354.png) [**DISCORD СЕРВЕР**](https://discord.gg/NUceHNH)  ![screenshot of sample](
